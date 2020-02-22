@@ -1,4 +1,4 @@
-# Basic Autonomus Rover Cognitive Architecture (BARCA)
+# Basic Autonomous Rover Cognitive Architecture (BARCA)
 # (Simple) World Model Test (Beta 0.01)
 # www.revelation3.com
 
